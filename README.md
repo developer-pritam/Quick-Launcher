@@ -1,5 +1,4 @@
-# Quick-Launcher
-<img src="https://imgur.com/kSqIkim.jpg">
+
 <!DOCTYPE html>
 <html>
   <head>
